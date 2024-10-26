@@ -1,1 +1,2 @@
-#First modification on .txt to show both README.md and hello_world.txt on Staging area after saving and commited
+#   First modification on .txt to show both README.md and hello_world.txt on Staging area after saving and commited
+#   Secodn modification on .txt to use git commit on VSCode after configuring w/ % git config --global core.editor "code --wait"
